@@ -1,1 +1,1 @@
-# JS dev wannabe
+Junior Web Dev | JS | dotnet | Azure
