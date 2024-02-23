@@ -1,1 +1,1 @@
-Junior Web Dev | JS | dotnet | Azure
+Web dev | TS | JS | dotnet | Azure
