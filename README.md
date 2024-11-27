@@ -1,1 +1,1 @@
-Web dev | TS | JS | dotnet | Azure
+Web dev | TS | dotnet | Azure
